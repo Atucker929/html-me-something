@@ -1,0 +1,69 @@
+html, body {
+    font-family: sans-serif;
+    margin: 10px;
+    border: 15px;
+    padding: 5px;
+    width: 100%;
+    height: 100%;
+   
+  }
+  
+  h1 {
+    font-size: 22px;
+  }
+  
+  p {
+    max-width: 50%;
+    min-width: 500px;
+  }
+  
+ 
+h2 {
+    color: rgb(196, 78, 196);
+    }
+    section {
+        color: rgb(6, 22, 39);
+  }
+
+ h3 {
+    color: rgb(196, 78, 196);
+    }
+    section {
+        color: rgb(1, 5, 8);
+  }
+
+  div {
+    flex: 40%;
+    padding-right: 80px;
+    height: 100%;
+    width: 100%;
+  }
+  
+  video {
+    background-color: #000000;
+    border: 2px solid black;
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  .main {
+    padding-left: 35px;
+    min-width: 65%;
+  }
+  
+  .nav {
+    background-color: rgb(183, 0, 255);
+    max-width: 140;
+    min-width: 140px;
+    flex: 2;
+  }
+  
+  .nav h1 {
+    padding-left: 20px;
+  }
+
+  #pie { 
+	text-align: center; 
+	}
